@@ -78,20 +78,20 @@ export const quickSort = function(arr) {
 /*
   --> MERGE sort
 */
-export const mergeSort = function (arr) {
+export const mergeSort = function(arr) {
   const { length } = arr;
-}
+};
 
 /*
   --> BUCKET sort
 */
-export const quickSort = function (arr) {
+export const bucketSort = function(arr) {
   const { length } = arr;
-}
+};
 
 /*
   --> RADIX sort
 */
-export const radixSort = function (arr) {
+export const radixSort = function(arr) {
   const { length } = arr;
-}
+};
